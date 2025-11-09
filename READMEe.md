@@ -8,10 +8,10 @@ Kullanıcıların toplam satış, stok durumu ve ürün adetleri gibi kritik ver
 Kullanılan Teknolojiler:React Native, Firebase, Expo, TypeScript
 
 ![Müşteri Takip](erp-lite/screenshots/Müşteri_takip.jpg)
-[Raporlar](erp-lite/screenshots/Raporlar.jpg)
-[Satın alma ve tedarikçi](erp-lite/screenshots/Satın_alma_tedarilçi.jpg)
-[Satış Yönetimi](erp-lite/screenshots/Satış.jpg)
-[Stok takip](erp-lite/screenshots/stok_takip.jpg)
+![Raporlar](erp-lite/screenshots/Raporlar.jpg)
+![Satın alma ve tedarikçi](erp-lite/screenshots/Satın_alma_tedarilçi.jpg)
+![Satış Yönetimi](erp-lite/screenshots/Satış.jpg)
+![Stok takip](erp-lite/screenshots/stok_takip.jpg)
 
 ## Özellikler
 
